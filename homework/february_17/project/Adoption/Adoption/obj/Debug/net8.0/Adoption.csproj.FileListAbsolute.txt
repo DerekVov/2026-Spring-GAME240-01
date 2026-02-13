@@ -1,0 +1,15 @@
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/bin/Debug/net8.0/Adoption
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/bin/Debug/net8.0/Adoption.deps.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/bin/Debug/net8.0/Adoption.runtimeconfig.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/bin/Debug/net8.0/Adoption.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/bin/Debug/net8.0/Adoption.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.AssemblyInfoInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.AssemblyInfo.cs
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.csproj.CoreCompileInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.sourcelink.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/refint/Adoption.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/Adoption.genruntimeconfig.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_17/project/Adoption/Adoption/obj/Debug/net8.0/ref/Adoption.dll
