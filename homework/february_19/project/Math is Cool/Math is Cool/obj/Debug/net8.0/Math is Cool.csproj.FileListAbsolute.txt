@@ -1,0 +1,15 @@
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/bin/Debug/net8.0/Math is Cool
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/bin/Debug/net8.0/Math is Cool.deps.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/bin/Debug/net8.0/Math is Cool.runtimeconfig.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/bin/Debug/net8.0/Math is Cool.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/bin/Debug/net8.0/Math is Cool.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.AssemblyInfoInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.AssemblyInfo.cs
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.csproj.CoreCompileInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.sourcelink.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/refint/Math is Cool.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/Math is Cool.genruntimeconfig.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/february_19/project/Math is Cool/Math is Cool/obj/Debug/net8.0/ref/Math is Cool.dll
