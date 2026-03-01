@@ -1,0 +1,15 @@
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/bin/Debug/net8.0/This might take a WHILE
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/bin/Debug/net8.0/This might take a WHILE.deps.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/bin/Debug/net8.0/This might take a WHILE.runtimeconfig.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/bin/Debug/net8.0/This might take a WHILE.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/bin/Debug/net8.0/This might take a WHILE.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.AssemblyInfoInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.AssemblyInfo.cs
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.csproj.CoreCompileInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.sourcelink.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/refint/This might take a WHILE.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/This might take a WHILE.genruntimeconfig.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/march_3/project/This might take a WHILE/This might take a WHILE/obj/Debug/net8.0/ref/This might take a WHILE.dll
