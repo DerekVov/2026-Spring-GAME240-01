@@ -77,19 +77,23 @@ while (limit <= 10)
 Console.WriteLine();
 //Question 9, odd or even
 int fourXScale = 1;
+bool isEven = false;
 while (fourXScale <= 20)
 {
-    if (fourXScale % 2 != 1)
+    if (isEven)
     {
-        Console.Write(fourXScale + " is even ");
-        fourXScale += 1;
+        Console.Write(fourXScale + " Even ");
+        
     }
     else
     {
-        Console.Write(fourXScale + " is odd ");
-        fourXScale += 1;
+        Console.Write(fourXScale + " Odd ");
+        
     }
-    
+
+    isEven = !isEven;
+    fourXScale++;
+
 }
 Console.WriteLine();
 // question 10, array time
