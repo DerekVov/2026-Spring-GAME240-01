@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Code Maxing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f30a9e3d886efab0fa0dbc7f78e261055cfd02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955068b58b7bc7af640354d65ac7f39a435a801b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Code Maxing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Code Maxing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
