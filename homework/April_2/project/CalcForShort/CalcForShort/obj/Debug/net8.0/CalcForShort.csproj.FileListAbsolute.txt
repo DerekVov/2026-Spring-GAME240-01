@@ -1,0 +1,15 @@
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/bin/Debug/net8.0/CalcForShort
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/bin/Debug/net8.0/CalcForShort.deps.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/bin/Debug/net8.0/CalcForShort.runtimeconfig.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/bin/Debug/net8.0/CalcForShort.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/bin/Debug/net8.0/CalcForShort.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.AssemblyInfoInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.AssemblyInfo.cs
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.csproj.CoreCompileInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.sourcelink.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/refint/CalcForShort.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/CalcForShort.genruntimeconfig.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_2/project/CalcForShort/CalcForShort/obj/Debug/net8.0/ref/CalcForShort.dll
