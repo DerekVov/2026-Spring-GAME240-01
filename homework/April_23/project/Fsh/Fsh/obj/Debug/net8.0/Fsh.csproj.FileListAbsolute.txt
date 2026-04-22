@@ -1,0 +1,15 @@
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/bin/Debug/net8.0/Fsh
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/bin/Debug/net8.0/Fsh.deps.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/bin/Debug/net8.0/Fsh.runtimeconfig.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/bin/Debug/net8.0/Fsh.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/bin/Debug/net8.0/Fsh.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.AssemblyInfoInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.AssemblyInfo.cs
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.csproj.CoreCompileInputs.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.sourcelink.json
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/refint/Fsh.dll
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.pdb
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/Fsh.genruntimeconfig.cache
+/Users/derek.v/Documents/GitHub/2026-Spring-GAME240-01/homework/April_23/project/Fsh/Fsh/obj/Debug/net8.0/ref/Fsh.dll
